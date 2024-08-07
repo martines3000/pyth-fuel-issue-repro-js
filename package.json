@@ -1,0 +1,17 @@
+{
+  "name": "pyth-fuel-issue-repro-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pythnetwork/hermes-client": "^1.0.4",
+    "@pythnetwork/pyth-fuel-js": "^1.0.3",
+    "fuels": "^0.93.0"
+  }
+}
